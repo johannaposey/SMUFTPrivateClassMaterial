@@ -45,3 +45,9 @@ https://www.owler.com/company/verifi
 https://www.cbinsights.com/company/verifi-inc-jobs
 https://tearsheet.co/payments/30-experts-weigh-in-on-the-future-of-payments/
 https://stackshare.io/verifi/verifi
+
+***
+# Feedback
+ 
+
+[^1]:

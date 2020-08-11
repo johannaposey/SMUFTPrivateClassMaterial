@@ -72,3 +72,9 @@ After that is price discovery and this may bring even more attention to the appl
 [[7]Unwriter](https://github.com/unwriter)
 
 [[8]Twetch vs. PowPing: To tip or to pay?](https://coingeek.com/twetch-vs-powping-to-tip-or-to-pay/)
+
+***
+# Feedback
+ 
+
+[^1]:

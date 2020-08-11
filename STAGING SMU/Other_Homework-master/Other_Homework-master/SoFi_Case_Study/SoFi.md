@@ -44,7 +44,7 @@ For the purpose of this paper, we will consider the millennial generation to enc
 
 Millennials comprise approximately 22% of the US population. (Statista, 2020) At 75 million plus (U.S. citizens only), millennials are beginning to eclipse baby boomers. 
 
-![Information Sources When Shopping, Statistista 2020](https://github.com/AnnSweetNanners/Other_Homework/blob/master/SoFi_Case_Study/Images/Annotation%202020-07-28%20134352.png)
+![Information Sources When Shopping, Statistista 2020](Images/Annotation%202020-07-28%20134352.png)[^close]
 
 
 The millennial generation is one of the most diverse both racially and ethnically. Millennials are more educated than prior generations and are getting married later in life. Additionally, millennials are also less likely to own a home, and were more likely to be in poverty than other generations at similar ages. (Frey, 2018)
@@ -55,13 +55,13 @@ While underemployed and in student loan debt, millennials are likely to increase
 
 Millennials are more active than prior generations on social media, which affects the information they look for when shopping. The way millennials search for information (online vs guidance from friends/family) varied by product category. (Helms, et al., 2020)
 
-![Population Distribution in the United States in 2019, by generation, Helms, et al., 2020](https://github.com/AnnSweetNanners/Other_Homework/blob/master/SoFi_Case_Study/Images/Figure%202.png)
+![Population Distribution in the United States in 2019, by generation, Helms, et al., 2020](Images/Figure%202.png)
 
 Millennials are driving the growth of online shopping. As millennials enter the family stage of life, many online shopping with goods delivered directly to their homes or curbside. Also preferred, subscription services for certain categories, ex: Diapers, wipes, dog food, meal kits, and toilet paper. Millennials are also active mobile buyers, making 40% of purchases from a mobile phone. (Helms, et al., 2020) (Helms, et al., 2020)
 
-While value is important in the age group (millennials being more likely to shop value channels than promotion), Millennials care about social responsibility, and are willing to pay more for sustainable offerings. They are also spending more than expected on products with health and wellness claims, ex “Organic, natural, GMO free, probiotic, nut free.”
+While value is important in the age group (millennials being more likely to shop value channels than promotion), Millennials care about social responsibility, and are willing to pay more for sustainable offerings. They are also spending more than expected on products with health and wellness claims, ex “Organic, natural, GMO free, probiotic[^spelling], nut free.”
 
-*What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 SoFi builds connections.
 
@@ -163,7 +163,7 @@ Market infrastructure providers are changing to stay relevant, EX: Zero commissi
 
 Across all domains, in the last few years there has been a shift to consolidation among companies, with decreasing number of new FinTech startups (except for the insurance domain), suggesting a maturing market. Once threats to the industry, more financial companies are teaming with FinTech’s to offer new products and greater efficiencies. (Deloitte Center for Financial Services, 2017)
 
-![Fintech companies founded by year, 2008-2017, Deloitte Center for Financial Servies Analysis, 2017](https://github.com/AnnSweetNanners/Other_Homework/blob/master/SoFi_Case_Study/Images/Figure%203.png)
+![Fintech companies founded by year, 2008-2017, Deloitte Center for Financial Servies Analysis, 2017](Images/Figure%203.png)
 
 * What are the other major companies in this domain?
 
@@ -251,7 +251,7 @@ To develop insurance comparison platforms, SoFi would need continued use of anal
 
 * Why are these technologies appropriate for your solution?
 Open source allows users to freely modify a work and easily integrate into a larger product, making it easy to fix broken code, and offer more security based on the number of people testing and fixing code. FinTech has been built on open source programming, which has allowed for quick development, and a more transparent data feed to clients.
-## Bibliography
+## Bibliography [^RTG]
 Chen, L. y. (2020, April 21). SoFi Acquires Hong Kong's 8 Securities in First Global Push. Retrieved from bloomberg.com: https://www.bloomberg.com/news/articles/2020-04-21/sofi-acquires-hong-kong-s-8-securities-in-first-global-push
 Craft. (2020, July 30). craft.co/sofi/competitors. Retrieved from craft.co: https://craft.co/sofi/competitors
 Crunchbase. (2020, July 28). Cruchbase: SoFi. Retrieved from crunchbase.com: https://www.crunchbase.com/organization/social-finance/company_financials
@@ -318,5 +318,11 @@ Stackshare. (2020, July 29). Stackshare: 8 Securities. Retrieved from stackshare
 Statista. (2020, July 28). Population distribution in the United States in 2019, by generation. Retrieved from statista.com: https://www.statista.com/statistics/296974/us-population-share-by-generation/#:~:text=The%20statistic%20depicts%20the%20distribution,population%20in%20the%20United%20States.
 Zest AI. (2020, July 30). zest.ai/soutions. Retrieved from zest.ai: https://www.zest.ai/solutions
 
+***
 
+## Feedback
+Great case study. It is very well researched. Good analysis of the landscape and  recommendations!
 
+[^RTG]: A bulleted list here would have made the bibliography easier to read
+[^close]: If you use just the path instead of the URL and the image will still load even if you download the repository. 
+[^spelling]: There are extensions for VSCode to do all sorts of things, including [footnotes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-footnotes) and [spellchecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker).

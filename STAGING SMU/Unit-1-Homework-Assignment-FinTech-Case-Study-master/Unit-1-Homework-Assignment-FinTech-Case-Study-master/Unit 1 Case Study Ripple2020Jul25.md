@@ -1,7 +1,7 @@
 # Ripple is the Amazon of Global Payments, Fast and Cheap:  2 hour delivery and free shipping
 ## Overview and Origin:
 * Name of company: Ripple
-* When was the company incorporated? OpenCoin officially became Ripple Labs, Inc on September 26, 2013.  Any ongoing or future maintenance of the Ripple platform could now be done by the community of users and developers.
+* When was the company incorporated? OpenCoin officially became Ripple Labs, Inc on September 26, 2013.  Any ongoing or future maintenance of the Ripple platform could now be done by the community of users and developers.[^suspicious]
 * Who are the founders of the company? 
 Ripple is the marriage of 3 individuals.  Fugger provided the exchange technology, McCaleb provided the cryptocurrency, and Larsen provided the initial capital.  
 In other words, Platform + XRP cryptocurrency + USD Cash = Ripple. 
@@ -41,7 +41,7 @@ The blockchain public ledger technology (which underlies cryptocurrency) has the
 
 * Why are these technologies appropriate for your solution? Digital payments are playing an increasingly critical role as consumer behavior shifts into a post-COVID world where contactless is the preferred way to pay.  This digital process also allows people to send money to loved ones around the world, instantly. 
 
-## Sources:
+## Sources:[^References]
 https://www.owler.com/company/ripples
 
 https://xrpl.org/
@@ -53,3 +53,11 @@ https://www.pwc.com/us/en/industries/financial-services/librarycryptocurrency-ev
 https://www.quora.com/Who-are-Ripple�s-competitors 
 
 https://youtu.be/VSRomZboFVQ
+
+***
+# Feedback
+Needs more work. We are looking for more analysis in the landscape and recommendation sections. Think of your recommendations as the conclusion. You should back up with your recommendations with findings from the previous sections.  
+
+[^suspicious]: These two sentences don't make sense together and look suspiciously like the first paragraph of [this article](https://medium.com/fintechtris/fintech-focus-on-ripple-blockchain-leader-in-remittances-1f05603011d9).
+
+[^References]: A thorough case study needs more and better resources. Generally blogs like Quora are not good references. Additionally, many of these links are broken or lead to sites not related to the case study.

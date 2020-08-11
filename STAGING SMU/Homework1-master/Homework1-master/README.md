@@ -52,7 +52,7 @@ Stripe would benefit the payment processing marketplace by utilizing their curre
 
 Only 10% of the supply chain finance marketplace has been satisfied with Supply Chain Finance Soltions, leaving 90% available for potential market growth.  It is estimated this industry will grow at a 20-30% rate until 2027. Entering this marketplace now would be beneficial for the longterm health and growth of Stripe. 
 
-## References
+## References [^RTG]
 
 https://www.wired.co.uk/article/stripe-payments-apple-amazon-facebook
 
@@ -63,6 +63,13 @@ https://stripe.com/docs/account
 https://www.startupgrind.com/blog/the-collison-brothers-and-story-behind-the-founding-of-stripe/
 
 https://stripe.com/files/payments/IDC_Business_Value_of_Stripe_Platform_Full%20Study.pdf
+
+***
+
+## Feedback
+Good use of markdown. Excellent case study. Good analysis of the landscape and recommendation.
+
+[^RTG]: Adding a blurb next to each of the resources will help you out when you are trying to remember where you read that one thing. It isn't needed for this, but always a good idea.
 
 
 

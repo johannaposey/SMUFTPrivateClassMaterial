@@ -98,6 +98,6 @@ ADDENDUM[^RTG]
 # Feedback
 Great use of markdown to improve readability. Many good resources. In-line hyperlinks are very helpful!
 
-[^spelling]: There are VSCode extensions to help with spelling and do other cool stuff (like footnotes)!
+[^spelling]: There are extensions for VSCode to do all sorts of things, including [footnotes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-footnotes) and [spellchecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker).
 [^RTG]: Adding a little blurb here summarizing the source will help if you or someone else is trying to refer back to a piece of information. Not necessary here, but usually a good idea!
 [^1SF]: Love the reference to hard data from reputable sources! You could go a little further here and draw a conclusion about where global opportunities lie, or elaborate on other opportunities might be found with that data.
